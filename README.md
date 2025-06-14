@@ -42,9 +42,9 @@ Run using any C# compiler or `dotnet run` if using .NET CLI.
 
 ## Files
 
-- `OldPhonePad.cs` — core logic
-- `Program.cs` — entry point and test cases
-- `README.md` — documentation
+- `OldPhonePad.cs` — Well-structured and refactored code - core logic
+- `Program.cs` — Comprehensive test cases - entry point and test cases
+- `README.md` — A clear README - documentation
 
 ## License
 
