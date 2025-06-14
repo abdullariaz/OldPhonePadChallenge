@@ -6,7 +6,7 @@ public class OldPhone
 {
     private static readonly Dictionary<char, string> keyMap = new Dictionary<char, string>()
     {
-        { '1', "&'(" },  // optional symbols
+        { '1', "&'(" },  // 
         { '2', "ABC" },
         { '3', "DEF" },
         { '4', "GHI" },
