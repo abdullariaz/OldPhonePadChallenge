@@ -2,7 +2,7 @@
 
 ## Overview
 
-This solution solves the Iron Software C# Coding Challenge — simulating an old mobile phone keypad to decode a string input.
+Iron Software C# Coding Challenge.
 
 ## Key Rules
 
